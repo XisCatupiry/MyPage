@@ -20,7 +20,7 @@ body {
 }
 
 .btn:hover {
-  background-color: rgba(133, 190, 255, 50%);
+  background-color: rgba(255, 0, 0, 0.178);
 }
 
 .btn:active {
