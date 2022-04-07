@@ -1,0 +1,151 @@
+body {
+  border: none;
+  margin: 0;
+  text-align: center;
+  font-family: 'Jua', sans-serif;
+}
+
+.btn {
+  background-color: transparent;
+  border-radius: 28px;
+  border: 1px solid #ee4444;
+  display: inline-block;
+  cursor: pointer;
+  color: #ee4444; 
+  font-size: 18px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ee4444;
+  animation: 3s;
+}
+
+.btn:hover {
+  background-color: rgba(133, 190, 255, 50%);
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.top-container {
+  background-color: #000000ea;
+}
+
+.middle-container {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Jua', sans-serif;
+  font-size: 7rem;
+  margin-bottom: 0;
+  color: #ee4444;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Jua', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 5px;
+  color: #ee4444;
+  font-weight: normal;
+}
+
+h3 {
+  color: #ee4444;
+}
+
+hr {
+  color: gray;
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 7px;
+  width: 55px;
+  margin: 100px auto;
+}
+
+a {
+  color: #ee4444;
+}
+
+.fullstack {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  top: 100px;
+  left: 150px;
+  visibility: hidden;
+}
+
+.mel_img {
+  width: 200px;
+  margin-bottom: 35px;
+  position: relative;
+  top: 30px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.skill-row-one {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-two {
+  width: 50%;
+  margin: 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.front_img, .pc_img {
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pc_img {
+  border-radius: 10%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  width: 100%;
+  background-color: #000000ea;
+  padding: 30px 0;
+  margin-top: 70px;
+  color: #ee4444;
+}
+
+.bottom-text {
+  margin-bottom: 70px;
+}
+
+.text {
+  padding-bottom: 300px;
+}
+
+.footer-link {
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+.tm {
+  padding-top: 15px;
+}
+
+.footer-link:hover {
+  color: white;
+}
